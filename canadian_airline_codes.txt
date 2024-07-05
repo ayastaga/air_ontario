@@ -1,0 +1,31 @@
+Air Canada Jazz;QK;JZA;JAZZ;Canada
+Air Canada;AC;ACA;AIR CANADA;Canada
+Air Georgian;ZX;GGN;GEORGIAN;Canada
+Air North Charter - Canada;4N;ANT;AIR NORTH;Canada
+Air Transat;TS;TSC;TRANSAT;Canada
+Bearskin Lake Air Service;JV;BLS;BEARSKIN;Canada
+Buffalo Airways;J4;BFL;BUFFALO;Canada
+CanJet;C6;CJA;CANJET;Canada
+Canadian Airlines;CP;CDN;CANADIAN;Canada
+Canadian North;5T;MPE;EMPRESS;Canada
+Canadian Western Airlines;W2;CWA;CANADIAN WESTERN;Canada
+Cargojet Airways;W8;CJT;CARGOJET;Canada
+Execair Aviation;MB;EXA;CANADIAN EXECAIRE;Canada
+First Air;7F;FAB;\N;Canada
+Harmony Airways;HQ;HMY;HARMONY;Canada
+Hawkair;BH;\N;\N;Canada
+Helijet;JB;JBA;HELIJET;Canada
+Hope Air;HH;\N;HOPE AIR;Canada
+JetsGo;SG;JGO;JETSGO;Canada
+Northern Dene Airways;U7;\N;\N;Canada
+Northwestern Air;J3;PLR;POLARIS;Canada
+Pacific Coastal Airline;8P;PCO;PASCO;Canada
+Porter Airlines;PD;POE;PORTER AIR;Canada
+Skyservice Airlines;5G;SSV;SKYTOUR;Canada
+Sunwing Airlines;WG;SWG;SUNWING;Canada
+Transwest Air;9T;ABS;ATHABASKA;Canada
+VIA Rail Canada;2R;\N;\N;Canada
+West Coast Air;8O;\N;\N;Canada
+WestJet;WS;WJA;WESTJET;Canada
+Zip;3J;WZP;ZIPPER;Canada
+Zoom Airlines;Z4;OOM;ZOOM;Canada
